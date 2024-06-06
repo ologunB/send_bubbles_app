@@ -1,0 +1,41 @@
+{
+  "@@info": [
+    "Here are translations that exist in secondary locales but not in <en>.",
+    "[--full enabled] Furthermore, translations not used in 'lib/' according to the 't.<path>' pattern are written into <en>."
+  ],
+  "en": {
+    "locale": "English",
+    "general": {
+      "online": "Online",
+      "save": "Save"
+    },
+    "sendTab": {
+      "thisDevice": "This Device"
+    }
+  },
+  "ar": {},
+  "bn": {},
+  "cs": {},
+  "de": {},
+  "es-ES": {},
+  "fa": {},
+  "fr-FR": {},
+  "hu": {},
+  "in": {},
+  "it": {},
+  "iw": {},
+  "ja": {},
+  "ko": {},
+  "ne": {},
+  "nl": {},
+  "pl": {},
+  "pt-BR": {},
+  "ru": {},
+  "sv": {},
+  "tr": {},
+  "uk": {},
+  "ur": {},
+  "zh-CN": {},
+  "zh-HK": {},
+  "zh-TW": {}
+}
